@@ -1,5 +1,7 @@
 # PedJointNet
-This is the source code of paper PedJointNet: Joint Head-Shoulder and Full Body Deep Network for Pedestrian Detection
+This is the testing code of paper PedJointNet: Joint Head-Shoulder and Full Body Deep Network for Pedestrian Detection
+
+Environment: JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
 
 To use our code, please first install object detection module from: https://github.com/tensorflow/models
 
