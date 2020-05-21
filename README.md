@@ -1,5 +1,5 @@
 # PedJointNet
-This is the testing code of paper PedJointNet: Joint Head-Shoulder and Full Body Deep Network for Pedestrian Detection
+This is the testing code of paper [PedJointNet: Joint Head-Shoulder and Full Body Deep Network for Pedestrian Detection](https://ieeexplore.ieee.org/document/8685094)
 
 Environment: JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
 
