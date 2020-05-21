@@ -5,4 +5,4 @@ To use our code, please first install object detection module from: https://gith
 
 The pretrain model can be downloaded from: https://drive.google.com/file/d/1Q1Mp6cg4Ku-j8uZVR7FZ0wgMYCswJRwq/view?usp=sharing
 
-Put your testing images under ./data/, then run pedjointnet_test.py to visualize testing result.
+Put your testing images under ./test_images/, then run pedjointnet_test.py to visualize testing result.
