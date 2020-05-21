@@ -21,7 +21,7 @@ from object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as vis_util
 
 # List of the strings that is used to add correct label for each box.
-PATH_TO_LABELS = './data/pedjointnet_label_map.pbtxt'
+PATH_TO_LABELS = 'pedjointnet_label_map.pbtxt'
 category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABELS, use_display_name=True)
 
 # If you want to test the code with your images, just add path to the images to the TEST_IMAGE_PATHS.
